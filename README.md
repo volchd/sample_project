@@ -1,3 +1,3 @@
 # sample_project
 my experiment
-experiment
+exp@riment
